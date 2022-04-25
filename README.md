@@ -1,20 +1,9 @@
-# Almoreed
+# Islamic
 
 <div>
   
 ###  Name : Arwa Nasser
 
-### Description :
-
-#### Let's cook is an app that helps people to decide what to cook either for breakfast, lunch, or dinner, the app gives the user variety of recipes in each section and allows the user to display the recipes written or as a video.An application for displaying materials in the program (Almoreed) that contains:
-
--A page to browse written articles.
-
--A page to watch videos on YouTube.
-
--A page to listen to audio material.
-
-</div>
 
 ## Mark :
 
